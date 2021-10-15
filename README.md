@@ -10,7 +10,8 @@ Medium Post Titles
 
 Predict the category of posts by title and subtitle. <br>
 Number of categories considered - 23. <br>
-Original data can be downloaded [here](https://www.kaggle.com/nulldata/medium-post-titles)
+Original data can be downloaded [here](https://www.kaggle.com/nulldata/medium-post-titles) <br>
+[Google Colab](https://colab.research.google.com/drive/1l2TmsU9Gm147XMHhg4UOGgNptNw5iH5J?usp=sharing)
 
     
 ### Classification results:
